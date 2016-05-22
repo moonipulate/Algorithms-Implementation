@@ -1,6 +1,6 @@
 # Algorithms-Implementation
 -----------------
-都是一些常用算法的总结以及实现dev
+都是一些常用算法的总结以及实现
 
 ##目录
 1. AVL Tree
